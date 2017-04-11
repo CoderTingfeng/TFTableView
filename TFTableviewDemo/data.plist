@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>三叶草拖鞋</string>
+		<key>price</key>
+		<string>￥200</string>
+	</dict>
+    <dict>
+        <key>name</key>
+        <string>三叶草绿尾</string>
+        <key>price</key>
+        <string>￥750</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>三叶草单肩包</string>
+        <key>price</key>
+        <string>￥700</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>三叶草斑帆布鞋</string>
+        <key>price</key>
+        <string>￥400</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>三叶草短裤</string>
+        <key>price</key>
+        <string>￥350</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>三叶草衬衫</string>
+        <key>price</key>
+        <string>￥450</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>三叶草手表</string>
+        <key>price</key>
+        <string>￥2350</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>三叶草双肩包</string>
+        <key>price</key>
+        <string>￥350</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>三叶草帽子</string>
+        <key>price</key>
+        <string>￥99</string>
+    </dict>
+</array>
+</plist>

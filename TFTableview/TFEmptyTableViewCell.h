@@ -1,0 +1,21 @@
+//
+//  TFEmptyTableViewCell.h
+//  TFTableviewDemo
+//
+//  Created by 江霆锋 on 2017/4/10.
+//  Copyright © 2017年 江霆锋. All rights reserved.
+//
+
+#import "TFBaseTableViewCell.h"
+
+@interface TFEmptyTableViewCellModel : TFBaseTableViewCellModel
+
+@property (nonatomic, strong) UIColor *bgColor;
+
+@end
+
+@interface TFEmptyTableViewCell : TFBaseTableViewCell
+
+@property (nonatomic, strong) TFEmptyTableViewCellModel *model;
+
+@end
