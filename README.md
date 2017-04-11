@@ -3,6 +3,7 @@ TFTableView
 ## 目录
 * [项目介绍](#项目介绍)
 * [使用说明](#使用说明)
+* [依赖](#依赖)
 * [期待](#期待)
 
 
@@ -16,6 +17,11 @@ TFTableView
 - 【将`TFTableview`文件夹中的所有源代码拽入项目中】
 - 【在自定义Cell的时候，继承自TFBaseTableViewCell并在当前自定义Cell里绑定一个继承自TFBaseTableViewCellModel的CellModel】
 - 【在VC中，详细写法请参考demo】
+
+<a name="依赖"></a>
+## 依赖
+* [Masonry](https://github.com/SnapKit/Masonry)
+
 
 <a name="期待"></a>
 ## 期待
