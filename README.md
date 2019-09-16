@@ -9,7 +9,7 @@ TFTableView
 
 <a name="项目介绍"></a>
 ## 项目介绍
-- 【一款基于MVVM模式下tableView的封装demo，打破你对tableView的传统认识和写法，通过自定义TFTableViewDataSource,让你彻底摆脱UITableViewDataSource的繁琐，让你重新认识Cell的重用机制并摆脱传统的机械写法，让你摆脱计算CellHeight的烦恼。demo部分代码参考来自阿里的楷神封装的tableView，在此深表感谢！】
+- 【一款基于MVVM模式下tableView的封装demo，打破你对tableView的传统认识和写法，通过自定义TFTableViewDataSource,让你彻底摆脱UITableViewDataSource的繁琐，让你重新认识Cell的重用机制并摆脱传统的机械写法，让你摆脱计算CellHeight的烦恼。】
 
 
 <a name="使用说明"></a>
